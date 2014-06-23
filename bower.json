@@ -1,0 +1,26 @@
+{
+  "name": "angular-reverse-geocode",
+  "version": "1.0.0",
+  "authors": [
+    "Jason Watmore <jason@pointblankdevelopment.com.au> (http://jasonwatmore.com)"
+  ],
+  "description": "AngularJS reverse geocoding directive",
+  "main": "angular-reverse-geocode.js",
+  "keywords": [
+    "AngularJS",
+    "Reverse Geocode",
+    "Google Maps"
+  ],
+  "license": "MIT",
+  "homepage": "http://jasonwatmore.com/post/2014/02/15/AngularJS-Reverse-Geocoding-Directive.aspx",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.16"
+  }
+}
